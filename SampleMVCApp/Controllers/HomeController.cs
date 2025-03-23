@@ -16,6 +16,7 @@ public class HomeController : Controller
     public IActionResult Index()
     {
         //2025.03.23 再度コメント追加
+        //2025.03.23 16:47 github接続確認
         return View();
     }
 
